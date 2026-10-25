@@ -313,7 +313,7 @@ Mark a feature **live** only when the code path, tests, and relevant on-chain tr
 
 ## 12. Hackathon and open-source notes
 
-Lancer is being prepared for NEAR HACKATHON. Ensure the public repository and demo post meet the official requirements before the deadline. See [HACKATHON.md](./HACKATHON.md) and the [official hackathon site](https://nearhackathon.com).
+Lancer is being prepared for NEAR HACKATHON.
 
 ### Contributing
 
