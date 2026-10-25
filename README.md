@@ -309,7 +309,6 @@ This is a hackathon prototype, not a production escrow service. Verify each item
 | Multi-device persistence | Requires backend; localStorage is insufficient |
 | Production-grade admin support security | Requires stronger authorization and contract checks |
 
-Mark a feature **live** only when the code path, tests, and relevant on-chain transactions can be independently verified. For judging, include a demo video or screenshots and link to any public testnet transaction evidence that exists.
 
 ## 12. Hackathon and open-source notes
 
